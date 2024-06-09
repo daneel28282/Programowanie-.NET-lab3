@@ -1,1 +1,2 @@
-# dotNet_lab3
+# Programowanie-.NET-lab3
+
